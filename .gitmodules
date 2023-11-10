@@ -2,18 +2,18 @@
 	path = BE-Community-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-Community-Server.git
 [submodule "BE-Member-Server"]
-	path = BE-Member-Server 
+	path = BE-Member-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-Member-Server.git
 [submodule "BE-Contents-Server"]
-	path = BE-Contents-Server 
-	url = https://github.com/kusitms-28th-Meetup-E/BE-Contents-Server.git 
+	path = BE-Contents-Server
+	url = https://github.com/kusitms-28th-Meetup-E/BE-Contents-Server.git
 [submodule "BE-APIGateway-Server"]
-	path = BE-APIGateway-Server 
+	path = BE-APIGateway-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-APIGateway-Server.git
 [submodule "BE-Keyword-Server"]
-	path = BE-Keyword-Server 
+	path = BE-Keyword-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-Keyword-Server.git
 [submodule "BE-Eureka-Server"]
-	path = BE-Eureka-Server 
+	path = BE-Eureka-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-Eureka-Server.git
 
