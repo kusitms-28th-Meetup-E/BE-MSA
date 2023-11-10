@@ -1,5 +1,5 @@
 [submodule "BE-Community-Server"]
-	path = BE-Community-Server 
+	path = BE-Community-Server
 	url = https://github.com/kusitms-28th-Meetup-E/BE-Community-Server.git
 [submodule "BE-Member-Server"]
 	path = BE-Member-Server 
